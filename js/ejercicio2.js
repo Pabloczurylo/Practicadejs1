@@ -23,4 +23,6 @@ if(nota >= 0 && nota <= 10){
     }else if( nota === 10){
         alert('Sobresaliente');
     }
+}else{
+    alert('Ingrese un número valido')
 }
